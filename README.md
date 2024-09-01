@@ -31,6 +31,9 @@
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0178B8?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+![DALL-E](https://img.shields.io/badge/DALL--E-000000?style=for-the-badge&logo=openai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=arman-02&theme=dracula&no-frame=true&margin-w=10)
