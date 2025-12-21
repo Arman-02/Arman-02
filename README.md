@@ -68,14 +68,14 @@
 - **AutoAssess: Automated SQL Query Evaluation Using LLMs**
   - Published in IEEE (2025)
   - Fine-tuned Llama 3.1 for SQL query generation and evaluation
-  - Read the paper: [https://ieeexplore.ieee.org/document/10940103]
+  - Read the paper: https://ieeexplore.ieee.org/document/10940103
 
 ---
 
 ## 📫 Connect With Me
 
-- 🌐 Portfolio: [armanjoshi.vercel.app](https://armanjoshi.vercel.app)
-- 💼 LinkedIn: [linkedin.com/in/arman-joshi](https://linkedin.com/in/arman-joshi)
+- 🌐 Portfolio: https://armanmotiwala.vercel.app/
+- 💼 LinkedIn: www.linkedin.com/in/arman-motiwala02
 - 📧 Email: armanmotiwala02@gmail.com
 
 ---
