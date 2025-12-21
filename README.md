@@ -75,7 +75,7 @@
 
 - 🌐 Portfolio: [armanjoshi.vercel.app](https://armanjoshi.vercel.app)
 - 💼 LinkedIn: [linkedin.com/in/arman-joshi](https://linkedin.com/in/arman-joshi)
-- 📧 Email: joshi.arm@northeastern.edu
+- 📧 Email: armanmotiwala02@gmail.com
 
 ---
 
